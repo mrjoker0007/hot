@@ -1,0 +1,51 @@
+.gray-bg{
+    background-color: gray;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: hotpink;
+}
+.buy{
+    background-image: linear-gradient(to bottom, pink 0%, red 100% );
+    color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#smartphones{
+    padding-top: 150px;
+}
+#laptop{
+    padding-top: 100px;
+}
+.cate-go{
+    margin: 25px 0;
+}
+.order img{
+    width: 100%;
+}
+.cate-bg{
+    box-shadow: 5px 5px 10px hotpink;
+    padding: 20px;
+    border-radius: 0 25px;
+}
+span.cate{
+    border: 1px solid orange;
+    width: 15%;
+    height: 7px;
+    border-radius: 15 px;
+    display: inline-block;
+    background-color: red;
+}
+footer{
+    text-align: center;
+}
+#pp{
+    text-align: end;
+}
